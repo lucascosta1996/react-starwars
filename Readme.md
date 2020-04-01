@@ -20,4 +20,5 @@ The following open source projects were used in this project:
 * Context API
 * Styled Components
 * React Router
+* SWAPI - The Star Wars API
 
